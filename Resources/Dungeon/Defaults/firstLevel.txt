@@ -1,0 +1,36 @@
+1
+2d4 
+goblins
+2
+4d4 
+kobolds
+3
+1d12 
+morlocks
+4
+2d4 
+orcs
+5
+1d8 
+fire beetles
+6
+2d4 
+giant centipedes
+7
+1d8 
+giant ferrets
+8
+3d6 
+giant rats
+9
+2d4 
+brigands
+10
+3d4 
+skeletons
+11
+1d10 
+stirges
+12
+1d4+2 
+NPC adventurers of level 2

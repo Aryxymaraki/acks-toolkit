@@ -1,0 +1,24 @@
+1
+Herd Animal, Antelope
+2
+Bat
+3
+Bear, Grizzly
+4
+Boar
+5
+Cat, Panther
+6
+Hawk
+7
+Owl
+8
+Snake, Pit Viper
+9
+Spider, Black Widow
+10
+Unicorn
+11
+Wolf
+12
+Wolf, Dire

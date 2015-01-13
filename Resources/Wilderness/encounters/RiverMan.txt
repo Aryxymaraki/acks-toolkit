@@ -1,0 +1,24 @@
+1
+Brigand
+2
+Buccaneer
+3
+Buccaneer
+4
+Buccaneer
+5
+Cleric
+6
+Fighter
+7
+Mage
+8
+Merchant
+9
+Merchant
+10
+NPC Party
+11
+NPC Party
+12
+Thief

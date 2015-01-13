@@ -1,0 +1,59 @@
+quiver of arrows
+bolt case
+potion
+ring
+rod
+staff
+wand
+sword
+map
+scroll
+amulet
+apparatus of the crab
+bag
+folding boat
+boots
+bowl
+bracers
+brazier
+brooch
+broom
+censer
+chime
+cloak
+crystal ball
+cube
+decanter
+drums
+dust
+bottle
+pair of Eyes
+carpet
+gauntlets
+girdle
+helm
+horn
+medallion
+mirror
+necklace
+rope
+scarab
+stone
+arrow
+axe
+bow
+dagger
+sling
+spear
+war hammer
+shield
+hide armor
+leather armor
+ring mail
+scale armor
+chain mail
+banded plate
+lamellar armor
+plate armor
+oil
+philter

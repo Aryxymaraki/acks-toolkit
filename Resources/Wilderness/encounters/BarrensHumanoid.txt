@@ -1,0 +1,24 @@
+1
+Bugbear
+2
+Giant, Hill
+3
+Goblin
+4
+Gnoll
+5
+Hobgoblin
+6
+Hobgoblin
+7
+Ogre
+8
+Ogre
+9
+Orc
+10
+Orc
+11
+Throghrin
+12
+Troll

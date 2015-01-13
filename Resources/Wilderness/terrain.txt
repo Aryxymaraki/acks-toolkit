@@ -1,0 +1,15 @@
+Barrens
+City
+Desert
+Grass
+Hills
+Inhabited
+Jungle
+Mountains
+Ocean
+Plains
+River
+Scrubland
+Swamp
+Woods
+Nuvlven

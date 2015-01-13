@@ -1,0 +1,24 @@
+1
+Basilisk
+2
+Caecilian
+3
+Chimera
+4
+Dragon, Black
+5
+Dragon, Black
+6
+Hydra
+7
+Lamia
+8
+Purple Worm
+9
+Salamander
+10
+Snake, Python
+11
+Sphinx
+12
+Wyvern

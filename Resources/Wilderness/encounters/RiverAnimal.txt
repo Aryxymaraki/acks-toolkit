@@ -1,0 +1,24 @@
+1
+Herd Animal, Antelope
+2
+Bear, Black
+3
+Boar
+4
+Cat, Panther
+5
+Crab, Giant
+6
+Crocodile
+7
+Leech, Giant
+8
+Piranha, Giant
+9
+Rat
+10
+Shrew, Giant
+11
+Swan
+12
+Toad, Giant

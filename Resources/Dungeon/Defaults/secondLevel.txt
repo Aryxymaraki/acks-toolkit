@@ -1,0 +1,36 @@
+1
+1d6
+gnolls
+2
+1d6
+hobgoblins
+3
+2d4
+lizardmen
+4
+1d8
+troglodytes
+5
+1d10
+giant bats
+6
+1d8
+giant carnivorous flies
+7
+1d10
+cavern locusts
+8
+1d8
+pit vipers
+9
+1d6
+ghouls
+10
+1d6
+human berserkers
+11
+2d4
+zombies
+12
+1d4+2
+NPC adventurers of level 2

@@ -1,0 +1,24 @@
+1
+Bugbear
+2
+Cyclops
+3
+Dryad
+4
+Elf
+5
+Giant, Hill
+6
+Gnoll
+7
+Goblin
+8
+Hobgoblin
+9
+Ogre
+10
+Orc
+11
+Pixie
+12
+Troll

@@ -1,0 +1,36 @@
+1
+1d1
+cyclops
+2
+1d2
+cloud giants
+3
+1d2
+purple worms
+4
+1d4
+demon boars
+5
+1d1
+20 HD dragon
+6
+1d1
+12 HD hydra
+7
+1d2
+gorgons
+8
+1d1
+lamia
+9
+1d1
+remorhaz
+10
+1d1
+skittering maw
+11
+1d4
+vampires
+12
+1d4+3
+NPC adventurers of level 14

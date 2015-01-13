@@ -1,0 +1,24 @@
+1
+Barbarian
+2
+Berserker
+3
+Brigand
+4
+Brigand
+5
+Brigand
+6
+Cleric
+7
+Fighter
+8
+Medium
+9
+NPC Party
+10
+NPC Party
+11
+Thief
+12
+Venturer

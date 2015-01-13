@@ -1,0 +1,24 @@
+1
+Cleric
+2
+Cleric
+3
+Fighter
+4
+Fighter
+5
+Mage
+6
+Merchant
+7
+Merchant
+8
+Noble
+9
+NPC Party
+10
+NPC Party
+11
+Thief
+12
+Venturer

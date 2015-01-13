@@ -1,0 +1,24 @@
+1
+Crab, Giant
+2
+Crocodile, Normal
+3
+Crocodile, Normal
+4
+Crocodile, Giant
+5
+Fish, Catfish
+6
+Fish, Piranha
+7
+Fish, Sturgeon
+8
+Leech, Giant
+9
+Lizardman
+10
+Merman
+11
+Naiad
+12
+Skittering Maw

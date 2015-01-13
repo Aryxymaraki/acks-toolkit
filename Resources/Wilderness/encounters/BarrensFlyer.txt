@@ -1,0 +1,24 @@
+1
+Cockatrice
+2
+Gargoyle
+3
+Griffon
+4
+Harpy
+5
+Hawk, Giant
+6
+Hippogriff
+7
+Lammasu
+8
+Manticore
+9
+Pegasus
+10
+Roc, Small
+11
+Stirge
+12
+Wyvern

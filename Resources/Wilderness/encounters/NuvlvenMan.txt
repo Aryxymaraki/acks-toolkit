@@ -1,0 +1,24 @@
+1
+Brigand
+2
+Nomad
+3
+Nomad
+4
+Fighter
+5
+Fighter
+6
+Fighter
+7
+Mage
+8
+Cleric
+9
+Thief
+10
+NPC Party
+11
+NPC Party
+12
+NPC Party

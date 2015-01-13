@@ -1,0 +1,24 @@
+1
+Dwarf
+2
+Giant, Cloud
+3
+Giant, Frost
+4
+Giant, Hill
+5
+Giant, Stone
+6
+Giant, Storm
+7
+Goblin
+8
+Kobold
+9
+Ogre
+10
+Orc
+11
+Troglodyte
+12
+Troll

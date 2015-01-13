@@ -1,0 +1,36 @@
+1
+1d2
+ettins
+2
+1d4
+hill giants
+3
+1d2
+stone giants
+4
+1d8
+trolls
+5
+1d6
+ankhegs
+6
+1d3
+caecilians
+7
+1d6
+basilisks
+8
+2d4
+greater hell hounds
+9
+1d4+1
+flame salamanders
+10
+1d4
+spectres
+11
+1d2
+wyverns
+12
+1d4+3
+NPC adventurers of level 8

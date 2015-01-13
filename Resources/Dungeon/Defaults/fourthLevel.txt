@@ -1,0 +1,36 @@
+1
+1d4
+wereboars
+2
+1d4
+weretigers
+3
+1d6
+minotaurs
+4
+1d4
+giant boars
+5
+1d4
+owlbears
+6
+1d4
+phase tigers
+7
+1d4
+giant rhagodessa
+8
+1d3
+giant pythons
+9
+1d4
+cockatrices
+10
+1d3
+medusas
+11
+1d4
+wraiths
+12
+1d4+2
+NPC adventurers of level 5

@@ -1,0 +1,24 @@
+1
+Rat
+2
+Rat
+3
+Bat
+4
+Hawk, Ordinary
+5
+Bee, Killer Giant
+6
+Centipede, Giant
+7
+Snake, Spitting Cobra
+8
+Ferret, Giant
+9
+Beetle, Fire
+10
+Dog, Hunting
+11
+Dog, Hunting
+12
+Herd Animal, Sheep

@@ -1,0 +1,24 @@
+1
+Bat, Giant
+2
+Cockatrice
+3
+Griffon
+4
+Hawk, Giant
+5
+Hippogriff
+6
+Owl, Giant
+7
+Pegasus
+8
+Pixie
+9
+Roc, Small
+10
+Sprite
+11
+Stirge
+12
+Swarm, Bat

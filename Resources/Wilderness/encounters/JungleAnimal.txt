@@ -1,0 +1,24 @@
+1
+Herd Animal, Antelope
+2
+Boar
+3
+Cat, Panther
+4
+Lizard, Draco
+5
+Lizard, Gecko
+6
+Lizard, Horned
+7
+Monkey
+8
+Shrew, Giant
+9
+Snake, Pit Viper
+10
+Snake, Python
+11
+Snake, Spitting Cobra
+12
+Spider, Crab

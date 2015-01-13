@@ -1,0 +1,36 @@
+1
+2d4 
+bugbears
+2
+1d6 
+werewolves
+3
+1d6
+ogres
+4
+1d6
+throghrin
+5
+2d4
+giant ants
+6
+1d3
+draco lizards
+7
+1d6
+giant scorpions
+8
+1d4
+dire wolves
+9
+1d3
+carcass scavengers
+10
+1d6
+gargoyles
+11
+1d6
+wights
+12
+1d4+2
+NPC adventurers of level 4

@@ -1,0 +1,24 @@
+1
+Ape, White
+2
+Basilisk
+3
+Blink Dog
+4
+Centaur
+5
+Gorgon
+6
+Hellhound
+7
+Lycanthrope
+8
+Medusa
+9
+Phase Tiger
+10
+Rust Monster
+11
+Skittering Maw
+12
+Treant

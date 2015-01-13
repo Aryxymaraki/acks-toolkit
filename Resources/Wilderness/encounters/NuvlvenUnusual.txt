@@ -1,0 +1,24 @@
+1
+Stirge
+2
+Pixie
+3
+Skeleton
+4
+Skeleton
+5
+Skeleton
+6
+Centipede, Giant
+7
+Beetle, Fire
+8
+Naiad
+9
+Dwarf
+10
+Shrew, Giant
+11
+Zombie
+12
+Zombie

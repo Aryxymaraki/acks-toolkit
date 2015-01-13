@@ -1,0 +1,5 @@
+XP Value
+% In Lair
+Number Appearing (Wilderness)
+Number Appearing (Lair)
+Treasure Type

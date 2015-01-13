@@ -1,0 +1,16 @@
+1
+Man
+2
+Flyer
+3
+Insect
+4
+Insect
+5
+Humanoid
+6
+Animal
+7
+Animal
+8
+Dragon

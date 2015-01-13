@@ -1,0 +1,24 @@
+1
+Herd Animal, Antelope
+2
+Boar
+3
+Cat, Lion
+4
+Cat, Panther
+5
+Elephant
+6
+Hawk
+7
+Horse, Light
+8
+Lizard, Tuatara
+9
+Mule
+10
+Snake, Giant Rattler
+11
+Snake, Pit Viper
+12
+Weasel, Giant

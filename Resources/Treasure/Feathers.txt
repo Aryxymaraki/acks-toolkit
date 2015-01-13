@@ -1,0 +1,17 @@
+cockatrice
+griffon
+harpy
+hawk
+giant hawk
+hippogriff
+lammasu
+owlbear
+pegasus
+small roc
+roc
+giant roc
+owl
+swan
+eagle
+giant eagle
+giant owl

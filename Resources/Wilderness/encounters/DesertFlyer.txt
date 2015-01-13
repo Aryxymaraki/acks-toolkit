@@ -1,0 +1,24 @@
+1
+Chimera
+2
+Cockatrice
+3
+Gargoyle
+4
+Griffon
+5
+Hawk, Giant
+6
+Lammasu
+7
+Manticore
+8
+Pterodactyl
+9
+Roc, Small
+10
+Sphinx
+11
+Vulture
+12
+Wyvern

@@ -1,0 +1,16 @@
+1
+Humanoid
+2
+Humanoid
+3
+Animal
+4
+Animal
+5
+Animal
+6
+Man
+7
+Unusual
+8
+Unusual

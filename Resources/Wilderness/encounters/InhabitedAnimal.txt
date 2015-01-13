@@ -1,0 +1,24 @@
+1
+Boar
+2
+Dog
+3
+Ferret, Giant
+4
+Herd Animal, Goat
+5
+Hawk
+6
+Horse, Light
+7
+Mule
+8
+Rat
+9
+Herd Animal, Sheep
+10
+Snake, Pit Viper
+11
+Weasel, Giant
+12
+Wolf

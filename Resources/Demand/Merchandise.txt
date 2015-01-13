@@ -1,0 +1,31 @@
+Grain, vegetables
+Fish, preserved
+Wood, common
+Animals
+Salt
+Beer, ale
+Oil, lamp
+Textiles
+Hides, furs
+Tea or coffee
+Metals, common
+Meats, preserved
+Cloth
+Wine, spirits
+Pottery
+Tools
+Armor, weapons
+Dye & pigments
+Glassware
+Mounts
+Monster parts
+Wood, rare
+Furs, rare
+Metals, precious
+Ivory
+Spices
+Porcelain, fine
+Books, rare
+Silk
+Semiprecious Stones
+Gems

@@ -1,0 +1,24 @@
+1
+Buccaneer
+2
+Buccaneer
+3
+Merchant
+4
+Merchant
+5
+Merchant
+6
+Merchant
+7
+Merchant
+8
+NPC Party
+9
+Pirate
+10
+Pirate
+11
+Pirate
+12
+Pirate

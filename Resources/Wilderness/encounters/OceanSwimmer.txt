@@ -1,0 +1,24 @@
+1
+Dragon Turtle
+2
+Sea Hydra
+3
+Merman
+4
+Octopus, Giant
+5
+Sea Dragon
+6
+Sea Serpent
+7
+Shark
+8
+Shark
+9
+Skittering Maw
+10
+Snake, Sea
+11
+Squid, Giant
+12
+Whale

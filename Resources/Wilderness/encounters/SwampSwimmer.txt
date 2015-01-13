@@ -1,0 +1,24 @@
+1
+Crab, Giant
+2
+Crocodile, Normal
+3
+Crocodile, Large
+4
+Crocodile, Giant
+5
+Fish, Catfish
+6
+Insect Swarm
+7
+Insect Swarm
+8
+Leech, Giant
+9
+Leech, Giant
+10
+Lizardman
+11
+Lizardman
+12
+Skittering Maw

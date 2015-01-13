@@ -1,0 +1,24 @@
+1
+Herd Animal, Antelope
+2
+Baboon, Rock
+3
+Bear, Cave
+4
+Cat, Mountain Lion
+5
+Eagle
+6
+Herd Animal, Goat
+7
+Hawk
+8
+Mule
+9
+Snake, Giant Rattler
+10
+Snake, Pit Viper
+11
+Wolf
+12
+Wolf, Dire

@@ -1,0 +1,24 @@
+1
+Bee, Killer Giant
+2
+Cockatrice
+3
+Fly, Giant Carnivorous
+4
+Gargoyle
+5
+Griffon
+6
+Hawk, Giant
+7
+Hippogriff
+8
+Pegasus
+9
+Pixie
+10
+Roc, Small
+11
+Sprite
+12
+Stirge

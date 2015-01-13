@@ -1,0 +1,24 @@
+1
+Herd Animal, Antelope
+2
+Herd Animal, Antelope
+3
+Camel
+4
+Camel
+5
+Cat, Lion
+6
+Hawk
+7
+Lizard, Gecko
+8
+Lizard, Tuatara
+9
+Snake, Giant Rattler
+10
+Wolf
+11
+Wolf, Dire
+12
+Vulture

@@ -1,0 +1,24 @@
+1
+Anti, Giant
+2
+Bee, Killer Giant
+3
+Beetle, Fire
+4
+Beetle, Giant Bombardier
+5
+Beetle, Tiger
+6
+Carcass Scavenger
+7
+Centipede, Giant
+8
+Fly, Giant Carnivorous
+9
+Rhagodessa
+10
+Scorpion, Giant
+11
+Spider, Black Widow
+12
+Spider, Crab
